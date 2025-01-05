@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vanchien1411999@gmail.com**
 
-- ⚡ Favorite quote:      **Khi ta đi thì ta sẽ tới
+- ⚡ Favorite quote:      **Khi ta đi thì ta sẽ tới / 
                     Khi ta mở lòng đất trời sẽ mênh mông**
 
 <h3 align="left">Connect with me:</h3>
