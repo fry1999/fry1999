@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chien</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A passionate frontend developer and mobile app from VietNam</h3>
 
 - 🔭 I’m currently working on **Kantoku Project in Tokyo, Japan**
 
