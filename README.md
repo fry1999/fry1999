@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kantoku Project in Tokyo, Japan**
 
-- 🌱 I’m currently learning **vue3, fluter, Typescript, Javascript**
+- 🌱 I’m currently learning **vue3, flutter, Typescript, Javascript**
 
 - 💬 Ask me about **Japanese, Vue3, Bootstrap, Tailwind, Typescript, JavaScript, Data struture and algorithms, C, C++**
 
